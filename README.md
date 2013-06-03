@@ -8,7 +8,7 @@ ATTENTION: THIS PATCH ENABLE CHANNELS THAT ARE NOT FREELY USABLE IN MANY COUNTRI
 Tested with kernel 3.9.4
 
 Apply the patch: 
-# patch -d /usr/src/linux/drivers/net/wireless/ath/ < ath9k_ath5k_full_permissive_unlock_all_channels.patch 
+patch -d /usr/src/linux/drivers/net/wireless/ath/ < ath9k_ath5k_full_permissive_unlock_all_channels.patch 
 and then recompile.
 
 I hope it will be useful...
