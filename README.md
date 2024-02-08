@@ -15,4 +15,4 @@ and then recompile.
 
 I hope it will be useful...
 
-Doom5 <doom5@inbox.com> 
+Doom5
